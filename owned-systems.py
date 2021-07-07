@@ -36,8 +36,6 @@ def list_of_owned_systems():
 		all_systems.append(name)
 	return all_systems
 
-# List of owned systems
-
 # Main execution
 # 1. Display welcome message
 # 2. Ask for number of systems owned
