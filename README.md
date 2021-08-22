@@ -1,5 +1,5 @@
 # mexen-games
-Video game library tracker
+Video Game Library Tracker
 
 - Systems owned
 - Games owned
