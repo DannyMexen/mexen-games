@@ -40,7 +40,8 @@ def list_of_owned_systems():
 # 1. Display welcome message
 # 2. Ask for number of systems owned
 # 3. Ask for list of systems owned
-# 4. Display list of systems owned
+# 4. Ask for games per system
+# 5. Display list of systems and games owned
 
 
 extract_name = welcome_message()
